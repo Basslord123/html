@@ -1,9 +1,37 @@
 .body{
-    background-color: black;
+    background-color: green;
 }
 .heading{
-    color: midnightblue;
+    color: black;
 }
 .span{
-    background-color: papayawhip;
+    background-color: blueviolet;
+}
+.paraSpans{
+    color: indigo;
+    background-color: lawngreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+.sessionspans{
+    color: chartreuse;
+    background-color: blueviolet;    
+}
+.divspans{
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
+.spanhtml{
+    background-color: red;
+    color: black;
+}
+.spancss{
+    background-color: blueviolet;
+    color: black;
+}
+.spanJS{
+    background-color: yellow;
+    color: black;
 }
